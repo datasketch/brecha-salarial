@@ -1,0 +1,6 @@
+baseURL = "https://datasketch.github.io/brecha-salarial/"
+languageCode = "es"
+title = "Brecha salarial"
+taxonomies = []
+publishDir = "docs"
+# googleAnalytics = ""

@@ -1,0 +1,49 @@
+{{ define "main" }}
+<div class="px-4 py-32 bg-center bg-no-repeat bg-cover" style='background-image: url({{ "images/main-bg.webp" | absURL }});'>
+  <div class="text-center mx-auto md:max-w-lg">
+    <img class="mx-auto" src='{{ "titles/main.svg" | absURL }}' alt="">
+    <p class="text-white mt-16">
+      Las enfermeras ganan menos que las médicas, las médicas menos que las especialistas, pero ¿ganan menos ellas que enfermeros, médicos y los especialistas? En Datasketch y Cuestión Pública analizamos contratos por prestación de servicios de entidades de salud públicas de Colombia para saber cómo va la brecha salarial en el sector salud.
+    </p>
+  </div>
+</div>
+<!---->
+<div class="bg-purple flex flex-col md:flex-row md:items-center">
+  <div class="w-full px-4 md:w-1/2">
+    <div class="w-full mx-auto md:w-10/12">
+      <p class="text-white">
+        Las enfermeras ganan menos que las médicas, las médicas menos que las especialistas, pero ¿ganan menos ellas que enfermeros, médicos y los especialistas? En Datasketch y Cuestión Pública analizamos contratos por prestación de servicios de entidades de salud públicas de Colombia para saber cómo va la brecha salarial en el sector salud.
+      </p>
+    </div>
+  </div>
+  <div class="w-full md:w-1/2">
+    <img class="max-w-md mx-auto" src='{{ "images/person-1.webp" | absURL }}' alt="">
+  </div>
+</div>
+<!---->
+<div class="flex flex-col md:flex-row md:items-center">
+  <div class="bg-violet w-full md:w-1/2">
+    <img class="max-w-xl mx-auto" src='{{ "images/person-2.webp" | absURL }}' alt="">
+  </div>
+  <div class="bg-white w-full px-4 md:w-1/2">
+    <div class="w-full mx-auto md:w-10/12">
+      <p class="text-charcoal text-right">
+        Según el Foro Económico Mundial en su último reporte sobre brecha de género global, Colombia se ubica en el puesto 22 de 153 en la escala de brecha de género, solo por detrás de Costa Rica y Nicaragua en América Latina. Sin embargo, dicha escala está construida con cuatro indicadores: acceso a salud, oportunidades educativas, igualdad económica y empoderamiento político. Específicamente en el indicador de igualdad económica, Colombia se ubica en el puesto 42 de 153.
+      </p>
+    </div>
+  </div>
+</div>
+<!---->
+<!---->
+<div class="px-4 py-24 bg-center bg-no-repeat bg-cover" style='background-image: url({{ "images/bg-purple.webp" | absURL }});'>
+  <div class="text-center mx-auto md:max-w-lg">
+    <img class="mx-auto" src='{{ "titles/download.svg" | absURL }}' alt="">
+    <p class="text-white mt-10">
+      Los datos que analizamos para este especial están disponibles para que la ciudadanía los descargue y haga sus propios análisis.
+    </p>
+    <div class="mt-10">
+      <button class="font-chango bg-white text-purple px-2 py-1 uppercase text-3xl">Descargar</button>
+    </div>
+  </div>
+</div>
+{{ end }}
