@@ -12,6 +12,8 @@ module.exports = {
         charcoal: '#293845',
         violet: '#f282fc',
         'barbie-pink': '#da1c95',
+        'eerie-black': '#222526',
+        aqua: '#5af2ca',
       },
     },
   },
