@@ -5,4 +5,22 @@
   filter: brightness(0) invert(1);
 }
 
+.post-content {
+  @apply w-full text-charcoal;
+}
+
+.post-content::first-letter {
+  @apply font-chango text-6xl leading-none;
+}
+
+.post-content > * ~ * {
+  @apply mt-8;
+}
+
+@screen md {
+  .post-content {
+    @apply w-8/12;
+  }
+}
+
 @tailwind utilities;

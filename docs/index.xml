@@ -10,5 +10,14 @@
 	<atom:link href="https://datasketch.github.io/brecha-salarial/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Metodología</title>
+      <link>https://datasketch.github.io/brecha-salarial/metodologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datasketch.github.io/brecha-salarial/metodologia/</guid>
+      <description>Si se parte de las personas graduadas en el país de carreras relacionadas con el sector de la salud en el año 2018, podría decirse que a pesar de que hombres y mujeres estudian carreras de psicología, tecnología de regencia de farmacia, medicina y enfermería como programas fundamentales, 366 mujeres se graduaron como psicólogas en comparación a 293 hombres, 128 se graduaron como tecnólogas en regencia de farmacia, en comparación con 90 hombres, y 65 se graduaron como fisioterapeutas en comparación con los 52 hombres.</description>
+    </item>
+    
   </channel>
 </rss>
