@@ -1,7 +1,7 @@
 ---
-title: "Metodología"
+title: "Artículo 1"
 image: "titles/methodology.svg"
-bars: "methodology-bars"
+bars: "article-1-bars"
 ---
 
 Si se parte de las personas graduadas en el país de carreras relacionadas con el
