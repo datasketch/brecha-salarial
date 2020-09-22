@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brecha salarial</title>
-    <link>https://datasketch.github.io/brecha-salarial/</link>
+    <link>https://brecha-salarial.datasketch.co/</link>
     <description>Recent content on Brecha salarial</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="https://datasketch.github.io/brecha-salarial/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://brecha-salarial.datasketch.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arauca: mismo cargo, misma empresa estatal, mismo gerente. Casi dos millones de diferencia entre enfermero y enfermera.</title>
-      <link>https://datasketch.github.io/brecha-salarial/dos-millones-de-diferencia/</link>
+      <link>https://brecha-salarial.datasketch.co/dos-millones-de-diferencia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://datasketch.github.io/brecha-salarial/dos-millones-de-diferencia/</guid>
+      <guid>https://brecha-salarial.datasketch.co/dos-millones-de-diferencia/</guid>
       <description>En 2019 el entonces gerente de la Empresa Social del Estado (E.S.E.) Moreno &amp;amp; Clavijo en el departamento de Arauca, Edgar Alexander Contreras Velásquez, firmó dos contratos en representación de su entidad, uno para el Hospital San Francisco del municipio de Fortul y otro para el Centro de Salud Juan de Jesús Coronel del municipio de Tame, los dos contratos tenían el mismo objeto “Prestación de servicios de un profesional enfermero” y el mismo tiempo para ejecución, cuatro meses.</description>
     </item>
     
     <item>
       <title>Con o sin COVID-19: Colombia es mala paga para las mujeres en la salud</title>
-      <link>https://datasketch.github.io/brecha-salarial/colombia-es-mala-paga-para-las-mujeres-en-la-salud/</link>
+      <link>https://brecha-salarial.datasketch.co/colombia-es-mala-paga-para-las-mujeres-en-la-salud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://datasketch.github.io/brecha-salarial/colombia-es-mala-paga-para-las-mujeres-en-la-salud/</guid>
+      <guid>https://brecha-salarial.datasketch.co/colombia-es-mala-paga-para-las-mujeres-en-la-salud/</guid>
       <description>Datasketch y Cuestión Pública analizaron 331.757 contratos de hospitales estatales para determinar la desigualdad salarial entre hombres y mujeres en el sector de la salud en Colombia y encontramos que por cada $10.000 pesos que gana un hombre una mujer gana $6.100. La paridad de género sigue siendo una deuda en el sector público y privado en el país.
 Las mujeres en Colombia representan el 51.2% de la población, más de la mitad de ellas están en edad de trabajar.</description>
     </item>
     
     <item>
       <title>Metodología</title>
-      <link>https://datasketch.github.io/brecha-salarial/metodologia/</link>
+      <link>https://brecha-salarial.datasketch.co/metodologia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://datasketch.github.io/brecha-salarial/metodologia/</guid>
+      <guid>https://brecha-salarial.datasketch.co/metodologia/</guid>
       <description>Este análisis se llevó a cabo a partir de los datos abiertos de contratación pública en Colombia puestos a disposición de la ciudadanía mediante la plataforma SECOP I y SECOP II desde el año 2011 hasta agosto de 2020. Esta base de datos fue filtrada por hospitales públicos y tipos de contratación por prestación de servicios. Así se pudo conocer el monto de los contratos y la distribución salarial de las y los contratistas por cada mes contratado.</description>
     </item>
     
