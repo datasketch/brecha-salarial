@@ -13,6 +13,7 @@ module.exports = {
         violet: '#ff67ff',
         'barbie-pink': '#da1c95',
         'eerie-black': '#222526',
+        'turqoise-blue': '#58f4e1',
         aqua: '#5af2ca',
       },
     },

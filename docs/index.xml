@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language><atom:link href="https://datasketch.github.io/brecha-salarial/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artículo 1</title>
-      <link>https://datasketch.github.io/brecha-salarial/articulo-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://datasketch.github.io/brecha-salarial/articulo-1/</guid>
-      <description>Si se parte de las personas graduadas en el país de carreras relacionadas con el sector de la salud en el año 2018, podría decirse que a pesar de que hombres y mujeres estudian carreras de psicología, tecnología de regencia de farmacia, medicina y enfermería como programas fundamentales, 366 mujeres se graduaron como psicólogas en comparación a 293 hombres, 128 se graduaron como tecnólogas en regencia de farmacia, en comparación con 90 hombres, y 65 se graduaron como fisioterapeutas en comparación con los 52 hombres.</description>
-    </item>
-    
-    <item>
       <title>Artículo 2</title>
       <link>https://datasketch.github.io/brecha-salarial/articulo-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,12 +16,22 @@
     </item>
     
     <item>
+      <title>Con o sin COVID-19: Colombia es mala paga para las mujeres en la salud</title>
+      <link>https://datasketch.github.io/brecha-salarial/colombia-es-mala-paga-para-las-mujeres-en-la-salud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datasketch.github.io/brecha-salarial/colombia-es-mala-paga-para-las-mujeres-en-la-salud/</guid>
+      <description>Datasketch y Cuestión Pública analizaron 331.757 contratos de hospitales estatales para determinar la desigualdad salarial entre hombres y mujeres en el sector de la salud en Colombia y encontramos que por cada $10.000 pesos que gana un hombre una mujer gana $6.100. La paridad de género sigue siendo una deuda en el sector público y privado en el país.
+Las mujeres en Colombia representan el 51.2% de la población, más de la mitad de ellas están en edad de trabajar.</description>
+    </item>
+    
+    <item>
       <title>Metodología</title>
       <link>https://datasketch.github.io/brecha-salarial/metodologia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://datasketch.github.io/brecha-salarial/metodologia/</guid>
-      <description>Si se parte de las personas graduadas en el país de carreras relacionadas con el sector de la salud en el año 2018, podría decirse que a pesar de que hombres y mujeres estudian carreras de psicología, tecnología de regencia de farmacia, medicina y enfermería como programas fundamentales, 366 mujeres se graduaron como psicólogas en comparación a 293 hombres, 128 se graduaron como tecnólogas en regencia de farmacia, en comparación con 90 hombres, y 65 se graduaron como fisioterapeutas en comparación con los 52 hombres.</description>
+      <description>Este análisis se llevó a cabo a partir de los datos abiertos de contratación pública en Colombia puestos a disposición de la ciudadanía mediante la plataforma SECOP I y SECOP II desde el año 2011 hasta agosto de 2020. Esta base de datos fue filtrada por hospitales públicos y tipos de contratación por prestación de servicios. Así se pudo conocer el monto de los contratos y la distribución salarial de las y los contratistas por cada mes contratado.</description>
     </item>
     
   </channel>
