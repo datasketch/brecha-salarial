@@ -1,7 +1,7 @@
 ---
 title: "Arauca: mismo cargo, misma empresa estatal, mismo gerente. Casi dos millones de diferencia entre enfermero y enfermera."
 image: "titles/article-2.svg"
-bars: "article-2-bars"
+bars: "images/article-2-bars.png"
 bg: "images/bg-blue.png"
 description: "Entre los más 331.757 registros de contratación de hospitales estatales que analizamos para determinar la desigualdad salarial entre hombres y mujeres en el sector de la salud en Colombia. De la base de datos rastreamos dos contratos firmados el mismo día, del mismo año, en el mismo departamento, por el mismo gerente de empresa estatal, para contratar un enfermero jefe y una enfermera jefe que realizaran las mismas tareas en dos municipios diferentes y con diferente salario. ¿Adivinen a cuál mujer le pagaron menos?"
 ---

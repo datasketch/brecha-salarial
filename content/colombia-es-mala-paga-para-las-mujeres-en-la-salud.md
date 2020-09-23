@@ -1,7 +1,7 @@
 ---
 title: "Con o sin COVID-19: Colombia es mala paga para las mujeres en la salud"
 image: "titles/article-1.svg"
-bars: "article-1-bars"
+bars: "images/article-1-bars.png"
 bg: "images/bg-fuchsia.png"
 description: "Datasketch y Cuestión Pública analizaron 331.757 contratos de hospitales estatales para determinar la desigualdad salarial entre hombres y mujeres en el sector de la salud en Colombia y encontramos que por cada $10.000 pesos que gana un hombre una mujer gana $6.100. La paridad de género sigue siendo una deuda en el sector público y privado en el país."
 ---
@@ -52,7 +52,9 @@ Las profesiones de enfermería y pediatría están ligadas a las mujeres por la 
 
 Además las mujeres enfermeras deben someterse a la "doble jornada de cuidados". Andrés Restrepo, enfermero profesional y autor de la tesis de maestría ["Los hijos bastardos de Florence Nightile, sexo, género y sexualidad en las prácticas de cuidado del hombre enfermero"](https://repository.javeriana.edu.co/handle/10554/48082) analizó esto en su investigación y le explicó a Cuestión Pública y Datasketch porqué se habla de una doble jornada de cuidados. Restrepo dice que las mujeres enfermeras van ocho horas a un hospital y cuidan a los pacientes y luego llegan a sus casas y tienen que seguir cuidando a sus hijos, a su esposo o a las personas de la tercera edad. "En cambio los hombres van y cuidan en el hospital las mismas horas y no se tienen que someter a esa doble jornada de cuidados porque los cuidados domésticos no se les han asignado a ellos, entonces tienen más tiempo, más dinero para poder pagar estos estudios de posgrado que luego subsecuentemente los van a ubicar en mejores áreas [y mejor remuneradas en el hospital]", concluyó Restrepo.
 
-viz3 viz2
+{{< chart "charts/viz-3.html" >}}
+
+{{< chart "charts/viz-2.html" >}}
 
 ## Muchas más mujeres han sido contratadas en el sector público de la salud pero reciben un pago menor por su trabajo con respecto a los hombres
 

@@ -2,7 +2,7 @@
 title: "Metodología"
 image: "titles/methodology.svg"
 bg: "images/bg-purple.webp"
-bars: "methodology-bars"
+bars: "images/methodology-bars.png"
 ---
 
 Este análisis se llevó a cabo a partir de los datos abiertos de contratación pública en Colombia puestos a disposición de la ciudadanía mediante la plataforma SECOP I y SECOP II desde el año 2011 hasta agosto de 2020. Esta base de datos fue filtrada por hospitales públicos y tipos de contratación por prestación de servicios. Así se pudo conocer el monto de los contratos y la distribución salarial de las y los contratistas por cada mes contratado.
