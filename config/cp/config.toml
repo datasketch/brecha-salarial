@@ -1,5 +1,6 @@
-baseURL = "/"
+baseURL = "http://www.cuestionpublica.com/desigualdad-salarial-de-genero-en-sector-salud-colombia/"
 languageCode = "es"
 title = "Prejuicio e inequidad salarial entre hombres y mujeres de la salud"
 taxonomies = []
+publishDir = "docs-cp"
 # googleAnalytics = ""

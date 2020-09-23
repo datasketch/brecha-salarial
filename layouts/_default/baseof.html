@@ -8,9 +8,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Chango&family=IBM+Plex+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap" rel="stylesheet">
   {{ if .Title }}
-    <title>{{ .Title }}</title>
-  {{ else }}
     <title>{{ .Title }} - {{ .Site.Title }}</title>
+  {{ else }}
+    <title>{{ .Site.Title }}</title>
   {{ end }}
   {{ if .Site.GoogleAnalytics }}
     {{ template "_internal/google_analytics_async.html" . }}

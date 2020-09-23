@@ -38,7 +38,7 @@
       <img class="mx-auto" src='{{ "titles/article-2-banner.svg" | absURL }}' alt="">
       <div class="text-charcoal mt-10 text-center">
         <p>
-          Entre los más 331.757 registros de contratación de hospitales estatales que analizamos para determinar la desigualdad salarial entre hombres y mujeres en el sector de la salud en Colombia. De la base de datos rastreamos dos contratos firmados el mismo día, del mismo año, en el mismo departamento, por el mismo gerente de empresa estatal, para contratar un enfermero jefe y una enfermera jefe que realizaran las mismas tareas en dos municipios diferentes y con diferente salario. ¿Adivinen a cuál mujer le pagaron menos?
+          De los 331.757 registros de contratación de hospitales estatales que analizamos para determinar la desigualdad salarial entre hombres y mujeres en el sector de la salud rastreamos dos. Estos dos contratos fueron firmados el mismo día, del mismo año, en el mismo departamento, por el mismo gerente de empresa estatal, para contratar un enfermero jefe y una enfermera jefe que realizaran las mismas tareas en dos municipios diferentes y con diferente salario.¿Adivinen a cuál mujer le pagaron menos?
         </p>
         <a href="{{ relref . "dos-millones-de-diferencia.md"}}" class="mt-6 inline-block font-chango bg-turqoise-blue text-charcoal px-2 py-1 uppercase text-lg md:text-xl">Leer artículo</a>
       </div>
@@ -84,6 +84,11 @@
       pagination: {
         el: '.swiper-pagination',
         clickable: true
+      },
+      mousewheel: true,
+      keyboard: {
+        enabled: true,
+        onlyInViewport: false,
       },
       breakpoints: {
         768: {

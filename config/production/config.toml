@@ -1,6 +1,6 @@
 baseURL = "https://brecha-salarial.datasketch.co/"
 languageCode = "es"
-title = "Brecha salarial"
+title = "Prejuicio e inequidad salarial entre hombres y mujeres de la salud"
 taxonomies = []
 publishDir = "docs"
 # googleAnalytics = ""
