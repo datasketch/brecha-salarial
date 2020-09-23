@@ -1,6 +1,7 @@
 ---
 title: "Metodología"
 image: "titles/methodology.svg"
+bg: "images/bg-purple.webp"
 bars: "methodology-bars"
 ---
 
