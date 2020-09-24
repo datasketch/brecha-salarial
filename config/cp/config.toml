@@ -3,4 +3,4 @@ languageCode = "es"
 title = "Prejuicio e inequidad salarial entre hombres y mujeres de la salud"
 taxonomies = []
 publishDir = "docs-cp"
-# googleAnalytics = ""
+googleAnalytics = "UA-115081321-1"
