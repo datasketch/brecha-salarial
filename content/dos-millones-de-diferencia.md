@@ -18,6 +18,10 @@ Al revisar al detalle los dos contratos a ambos profesionales de enfermería se 
 
 A ella se le obligaba a realizar un número determinado de consultas según el tipo de enfermedad y el tipo de paciente, categorizado principalmente por edad. También se le exigía capacitar al personal, aplicar estrategias de prevención de enfermedades, realizar informes estadísticos, establecer un cronograma y brigadas de salud, a las que debía asistir con los presidentes de las Juntas de Acción Comunal.
 
+{{< quote >}}
+Sin embargo uno de los dos contratos fue adjudicado a un enfermero jefe hombre y el otro a una enfermera jefe mujer. A él le pagaron $13.056.000 y ella en contraste recibió $11.183.528 por proveer el mismo servicio. Ella obtuvo $1.872.472 pesos menos que él.
+{{< /quote >}}
+
 Adicional a esas tareas se le exigió realizar un total de 355 consultas al mes, atendiendo parejas que quieren concebir, mujeres embarazadas y personas con problemas visuales. Esas consultas también incluyen servicios de citologías cérvico vaginales y detección de alteraciones del desarrollo en menores de edad.
 
 ## Mujer

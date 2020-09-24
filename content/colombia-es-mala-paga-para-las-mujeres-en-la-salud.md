@@ -20,6 +20,10 @@ El Sistema Electrónico de Contratación Pública de Colombia (SECOP I y II) reg
 
 Datasketch y Cuestión Pública analizaron 356.411 contratos de hospitales estatales del SECOP I y II y pudieron categorizar el género de las y los contratistas de 331.757 para determinar que la **diferencia salarial entre hombres y mujeres en el sector salud en Colombia se estima en un 39%** en contratos por prestación de servicios suscritos por hospitales E.S.E (Empresas Sociales del Estado) desde enero de 2018 hasta septiembre de 2020. Esta diferencia supera dos veces la brecha salarial general entre hombres y mujeres de 12% de Colombia en el año 2018. 
 
+{{< quote >}}
+"Ella [la jefe] me quería a mi porque yo era un hombre y porque ella necesitaba [así lo dijo en la entrevista] controlar las hormonas de las otras mujeres del servicio. A mi me contrataron no por mi experiencia laboral, no por mis estudios de posgrado, sino por el mero hecho de ser un hombre" Andrés Restrepo.
+{{< /quote >}}
+
 Nuestra investigación arrojó que en el sector de la salud los hombres ganan en promedio $3.434.721 de pesos y las mujeres ganan $2.080.495. Lo que quiere decir que por cada $10.000 pesos que gana un hombre una mujer gana $6.100. Al ver la brecha salarial de género a nivel general en Colombia, una mujer recibe 88 pesos por cada 100 que recibe un hombre por realizar el mismo trabajo, según la Gran Encuesta de Hogares [GEIH - 2019 del DANE](https://www.dane.gov.co/files/investigaciones/genero/publicaciones/Boletin-Estadistico-ONU-Mujeres-DANE-marzo-2020.pdf).
 
 {{< chart "charts/viz-4.html" >}}
@@ -43,6 +47,10 @@ En el año 2018 se graduaron 4.456 personas de carreras relacionadas a la salud.
 {{< chart "charts/viz-1.html" >}}
 
 Las mujeres no tienen las mismas oportunidades de educación y capacitación que los hombres porque las labores del cuidado son [casi un trabajo obligatorio](https://www2.unwomen.org/-/media/field%20office%20colombia/documentos/publicaciones/2020/01/covid19_onu_mujeres-colombia.pdf?la=es&vs=1437) para ellas. Durante la pandemia estas labores han empeorado para las mujeres ya que tienen que hacerse cargo del aseo, la cocina, el cuidado de los niños y las niñas, y de las personas mayores, que se considera trabajo doméstico y de cuidados que no es remunerado, y que ellas combinan con los estudios. Y aún así cuando se preparan e ingresan al mercado laboral reciben un pago inferior que el de los hombres por su trabajo (GEIH - 2019). En Colombia las mujeres dedican en promedio 50.6 horas semanales al trabajo doméstico y de cuidados no remunerado mientras que los hombres dedican menos de la mitad: 23.9 horas, según la Encuesta Nacional de Uso del Tiempo (ENUT, 2016 - 2017).
+
+{{< quote >}}
+"A los hombres les pagaban más, ellos tenían como un bono extra creo que eran como 50 mil pesos teniendo en cuenta ese criterio [de fuerza] cuando el paciente se desestabilizara (...) ellos tenían la capacidad de controlar a los pacientes más fácilmente. [En los turnos] siempre asignaban a un hombre como si no pudiéramos estar solas, eso era un tema." Natalia Torres
+{{< /quote >}}
 
 Colombia fue el [primer país](https://www.oecd.org/dev/development-gender/Brochure_SIGI_LAC_web.pdf) de América Latina en reconocer formalmente la contribución económica clave del trabajo doméstico y de cuidado no remunerado al aprobar la [ley 1413 de 2010](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=40764) que ordena la inclusión de la economía del cuidado en el sistema de cuentas nacionales (una cuenta satélite del Sistema de Cuentas Nacionales, SCN) para medir la contribución de la mujer al desarrollo económico y social a través de encuestas sobre el uso del tiempo. El DANE lleva el avance del cumplimiento de esta ley y puede ser consultado en [este enlace](https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-satelite/cuentas-economicas-cuenta-satelite-economia-del-cuidado).
 
@@ -69,6 +77,10 @@ En nuestra investigación también analizamos la distribución de la desigualdad
 {{< /table_wrapper >}}
 
 Las diferencias salariales entre hombres y mujeres pueden explicarse a menudo por una multitud de factores, entre ellos la representación excesiva de las mujeres en sectores poco remunerados y el hecho de que las mujeres tienden a ocupar menos puestos ejecutivos y de liderazgo. Esto nos dijo Candelaria Botto, directora de Economía Feminista, una organización argentina​ que visibiliza la desigualdad de género a través de los datos y la economía: *"en general se evidencia que la brecha es más alta para aquellas personas sin formación profesional, donde una mujer sin estudios es empleada doméstica mientras el de un varón está en construcción o albañería. Esto no es un problema en sí mismo más allá de la reproducción de los estereotipos de género donde las mujeres se entienden con una cualidad casi biológica de hacer labores de limpieza y del cuidado. Esto también es un problema económico en el sentido que las tareas que ejercen los hombres tienen remuneraciones más altas"*.
+
+{{< quote >}}
+"Yo veía que por el tema del relacionamiento entre mujeres ni siquiera nos tomaban en cuenta, éramos un grupo donde había tres hombres y siete mujeres pero siempre quedaban ellos." Natalia Torres
+{{< /quote >}}
 
 Estas especializaciones por tipo de cargo y mayor remuneración por nivel de formación se evidencian en el sector salud, por ejemplo Edilma Suárez, de ANEC señala que en el caso de la enfermería, para las mujeres enfermeras la presencia de hombres no necesariamente significa un mejoramiento del estatus individual o profesional, de hecho para las mujeres esto supone en una posición de subordinación. Continúa: "*Porque este tema de la salud es muy patriarcal, dominado especialmente por los hombres médicos y esto se puede exacerbar por la visión de un segundo lugar de subordinación hacia sus colegas hombres (...) los cargos administrativos en el área de enfermería se asignan a hombres más que a mujeres y entonces ellos ganan más dinero que las mujeres por estar en cargos administrativos y así se mantiene esa misma dinámica patriarcal de lo cultural masculino y lo cultural femenino". Andrés Restrepo, profesional de enfermería confirma esto: "sí, hay áreas donde se requieren especializaciones y esos cargos normalmente son ocupados por hombres porque son los que pueden acceder más fácilmente a la formación*".
 
