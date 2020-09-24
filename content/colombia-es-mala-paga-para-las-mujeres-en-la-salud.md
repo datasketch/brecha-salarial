@@ -138,7 +138,7 @@ Y aunque la igualdad es ley según la Constitución de Colombia y la Declaració
 
 {{< frame >}}
 
-## Más mujeres activas pero sin oportunidades
+## Sin igualdad de condiciones
 
 Hoy, de la población económicamente activa en Colombia hay [2.329.000 mujeres](https://www.dane.gov.co/files/investigaciones/boletines/ech/ech_genero/bol_eje_sexo_may20_jul20.pdf) desocupadas y el 40,8% de ellas son jóvenes entre 14 y 28 años. Esto trae consecuencias directas en las familias cuando [seis millones](https://www.dane.gov.co/files/investigaciones/genero/publicaciones/Boletin-Estadistico-ONU-Mujeres-DANE-marzo-2020.pdf) de los hogares en Colombia tienen al frente una mujer, hablamos del 40.7% del total del país, según el Censo Nacional de Población y Vivienda de 2018 del DANE.
 
