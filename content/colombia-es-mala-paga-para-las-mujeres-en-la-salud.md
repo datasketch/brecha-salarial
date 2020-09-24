@@ -26,7 +26,7 @@ Datasketch y Cuestión Pública analizaron 356.411 contratos de hospitales estat
 
 Nuestra investigación arrojó que en el sector de la salud los hombres ganan en promedio $3.434.721 de pesos y las mujeres ganan $2.080.495. Lo que quiere decir que por cada $10.000 pesos que gana un hombre una mujer gana $6.100. Al ver la brecha salarial de género a nivel general en Colombia, una mujer recibe 88 pesos por cada 100 que recibe un hombre por realizar el mismo trabajo, según la Gran Encuesta de Hogares [GEIH - 2019 del DANE](https://www.dane.gov.co/files/investigaciones/genero/publicaciones/Boletin-Estadistico-ONU-Mujeres-DANE-marzo-2020.pdf).
 
-{{< chart "charts/viz-4.html" >}}
+{{< chart "https://s3.amazonaws.com/datasketch.dskt.ch/contratos-totales-por-genero/contratos-totales-por-genero.html" >}}
 
 ## En todos los departamentos de Colombia los hombres ganan más que las mujeres menos en Vaupés que tiene un solo hospital en Mitú.
 
@@ -34,7 +34,7 @@ Al analizar las diferencias salariales entre hombres y mujeres contratistas del 
 
 Los departamentos con las brechas salariales de género más grandes son Chocó (brecha del 68%), la Guajira (brecha del 60%), Casanare (51%) y Boyacá (49 %). Mientras que los departamentos con brechas salariales de género más pequeñas, incluyendo a Vaupés (-6%) donde las mujeres ganan más que los hombres, son Antioquia (17%), Bolívar (23%) y Atlántico (23%).
 
-{{< chart "charts/viz-5.html" >}}
+{{< chart "https://s3.amazonaws.com/datasketch.dskt.ch/brecha-por-tipo-de-cargo/brecha-por-tipo-de-cargo.html" >}}
 
 El departamento con la diferencia salarial de género más amplia es el del Chocó, al hacer ‘zoom’ en los contratos de este departamento identificamos que de los **337 contratos analizados, el 34%  tenían la palabra "médico" o "médica" en la descripción, y registraban un ingreso mensual promedio de 16 millones de pesos**. Donde sólo el 18%, es decir 21 contratos, fueron adjudicados a mujeres y el 82 %, es decir 94 contratos, fueron adjudicados a hombres. El resto de los contratos tienen un ingreso mensual medio de $1,982,436 de pesos donde el 68% de las contratistas son mujeres y el otro 32% son hombres.
 
@@ -44,7 +44,7 @@ La diferencia salarial entre hombres y mujeres se reduce a medida que las mujere
 
 En el año 2018 se graduaron 4.456 personas de carreras relacionadas a la salud. Los datos del Ministerio de Educación demuestran que hay más mujeres que hombres egresados de las carreras de psicología, farmacia, odontología, enfermería y la especialización en pediatría. El único programa fundamental donde se igualan hombres y mujeres es medicina y la especialización de medicina interna, donde el número de hombres graduados supera a las mujeres.
 
-{{< chart "charts/viz-1.html" >}}
+{{< chart "/charts/viz-1.html" >}}
 
 Las mujeres no tienen las mismas oportunidades de educación y capacitación que los hombres porque las labores del cuidado son [casi un trabajo obligatorio](https://www2.unwomen.org/-/media/field%20office%20colombia/documentos/publicaciones/2020/01/covid19_onu_mujeres-colombia.pdf?la=es&vs=1437) para ellas. Durante la pandemia estas labores han empeorado para las mujeres ya que tienen que hacerse cargo del aseo, la cocina, el cuidado de los niños y las niñas, y de las personas mayores, que se considera trabajo doméstico y de cuidados que no es remunerado, y que ellas combinan con los estudios. Y aún así cuando se preparan e ingresan al mercado laboral reciben un pago inferior que el de los hombres por su trabajo (GEIH - 2019). En Colombia las mujeres dedican en promedio 50.6 horas semanales al trabajo doméstico y de cuidados no remunerado mientras que los hombres dedican menos de la mitad: 23.9 horas, según la Encuesta Nacional de Uso del Tiempo (ENUT, 2016 - 2017).
 
@@ -60,9 +60,9 @@ Las profesiones de enfermería y pediatría están ligadas a las mujeres por la 
 
 Además las mujeres enfermeras deben someterse a la "doble jornada de cuidados". Andrés Restrepo, enfermero profesional y autor de la tesis de maestría ["Los hijos bastardos de Florence Nightile, sexo, género y sexualidad en las prácticas de cuidado del hombre enfermero"](https://repository.javeriana.edu.co/handle/10554/48082) analizó esto en su investigación y le explicó a Cuestión Pública y Datasketch porqué se habla de una doble jornada de cuidados. Restrepo dice que las mujeres enfermeras van ocho horas a un hospital y cuidan a los pacientes y luego llegan a sus casas y tienen que seguir cuidando a sus hijos, a su esposo o a las personas de la tercera edad. "En cambio los hombres van y cuidan en el hospital las mismas horas y no se tienen que someter a esa doble jornada de cuidados porque los cuidados domésticos no se les han asignado a ellos, entonces tienen más tiempo, más dinero para poder pagar estos estudios de posgrado que luego subsecuentemente los van a ubicar en mejores áreas [y mejor remuneradas en el hospital]", concluyó Restrepo.
 
-{{< chart "charts/viz-3.html" >}}
+{{< chart "/charts/viz-3.html" >}}
 
-{{< chart "charts/viz-2.html" >}}
+{{< chart "/charts/viz-2.html" >}}
 
 ## Muchas más mujeres han sido contratadas en el sector público de la salud pero reciben un pago menor por su trabajo con respecto a los hombres
 
@@ -128,7 +128,7 @@ En ocasiones estas desigualdades son ejercidas por las mismas mujeres en niveles
 
 Al ver el resultado identificamos que las mujeres son contratadas para labores auxiliares, trabajo social y servicios generales. En cambio los hombres son requeridos para servicios de conducción y especialidades médicas. Además, el ingreso mensual medio para los cinco trabajos más importantes realizados predominantemente por hombres es de $2.406.646, mientras que para los trabajos dominados por las mujeres es de $1.713.631. Y de los 24 cargos categorizados, en 21 los hombres ganan más que las mujeres.
 
-{{< chart "charts/viz-6.html" >}}
+{{< chart "https://s3.amazonaws.com/datasketch.dskt.ch/brecha-por-departamento/brecha-por-departamento.html" >}}
 
 Candelaria Botto, de Economía Feminista nos dice que en este debate se debe empezar a hablar del trabajo doméstico no remunerado de la economía del cuidado, que recae mayoritariamente en las mujeres. "*La forma de reducir esto tiene que ver con la exigencia de la educación sin estereotipos de género y con corresponsabilidad en la crianza, en el cuidado y por ende en una distribución más simétrica de los trabajos del hogar*".
 
