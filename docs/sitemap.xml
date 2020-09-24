@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://brecha-salarial.datasketch.co/</loc>
-  </url>
-  
-  <url>
     <loc>https://brecha-salarial.datasketch.co/dos-millones-de-diferencia/</loc>
   </url>
   
@@ -16,6 +12,10 @@
   
   <url>
     <loc>https://brecha-salarial.datasketch.co/metodologia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brecha-salarial.datasketch.co/</loc>
   </url>
   
 </urlset>

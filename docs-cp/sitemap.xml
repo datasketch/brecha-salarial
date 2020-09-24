@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.cuestionpublica.com/desigualdad-salarial-de-genero-en-sector-salud-colombia/</loc>
-  </url>
-  
-  <url>
     <loc>http://www.cuestionpublica.com/desigualdad-salarial-de-genero-en-sector-salud-colombia/dos-millones-de-diferencia/</loc>
   </url>
   
@@ -16,6 +12,10 @@
   
   <url>
     <loc>http://www.cuestionpublica.com/desigualdad-salarial-de-genero-en-sector-salud-colombia/metodologia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.cuestionpublica.com/desigualdad-salarial-de-genero-en-sector-salud-colombia/</loc>
   </url>
   
 </urlset>
