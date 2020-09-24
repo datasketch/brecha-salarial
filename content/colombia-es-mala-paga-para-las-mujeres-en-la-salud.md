@@ -34,7 +34,7 @@ Al analizar las diferencias salariales entre hombres y mujeres contratistas del 
 
 Los departamentos con las brechas salariales de género más grandes son Chocó (brecha del 68%), la Guajira (brecha del 60%), Casanare (51%) y Boyacá (49 %). Mientras que los departamentos con brechas salariales de género más pequeñas, incluyendo a Vaupés (-6%) donde las mujeres ganan más que los hombres, son Antioquia (17%), Bolívar (23%) y Atlántico (23%).
 
-{{< chart src="https://s3.amazonaws.com/datasketch.dskt.ch/viz6-brecha-por-tipo-de-cargo/viz6-brecha-por-tipo-de-cargo.html" >}}
+{{< chart src="https://s3.amazonaws.com/datasketch.dskt.ch/viz5-brecha-por-departamento/viz5-brecha-por-departamento.html" >}}
 
 El departamento con la diferencia salarial de género más amplia es el del Chocó, al hacer ‘zoom’ en los contratos de este departamento identificamos que de los **337 contratos analizados, el 34%  tenían la palabra "médico" o "médica" en la descripción, y registraban un ingreso mensual promedio de 16 millones de pesos**. Donde sólo el 18%, es decir 21 contratos, fueron adjudicados a mujeres y el 82 %, es decir 94 contratos, fueron adjudicados a hombres. El resto de los contratos tienen un ingreso mensual medio de $1,982,436 de pesos donde el 68% de las contratistas son mujeres y el otro 32% son hombres.
 
@@ -128,7 +128,7 @@ En ocasiones estas desigualdades son ejercidas por las mismas mujeres en niveles
 
 Al ver el resultado identificamos que las mujeres son contratadas para labores auxiliares, trabajo social y servicios generales. En cambio los hombres son requeridos para servicios de conducción y especialidades médicas. Además, el ingreso mensual medio para los cinco trabajos más importantes realizados predominantemente por hombres es de $2.406.646, mientras que para los trabajos dominados por las mujeres es de $1.713.631. Y de los 24 cargos categorizados, en 21 los hombres ganan más que las mujeres.
 
-{{< chart src="https://s3.amazonaws.com/datasketch.dskt.ch/viz5-brecha-por-departamento/viz5-brecha-por-departamento.html" >}}
+{{< chart src="https://s3.amazonaws.com/datasketch.dskt.ch/viz6-brecha-por-tipo-de-cargo/viz6-brecha-por-tipo-de-cargo.html" >}}
 
 Candelaria Botto, de Economía Feminista nos dice que en este debate se debe empezar a hablar del trabajo doméstico no remunerado de la economía del cuidado, que recae mayoritariamente en las mujeres. "*La forma de reducir esto tiene que ver con la exigencia de la educación sin estereotipos de género y con corresponsabilidad en la crianza, en el cuidado y por ende en una distribución más simétrica de los trabajos del hogar*".
 
