@@ -16,6 +16,9 @@ module.exports = {
         'turqoise-blue': '#58f4e1',
         aqua: '#5af2ca',
       },
+      fontSize: {
+        'title': '2.8125rem'
+      }
     },
   },
   variants: {},

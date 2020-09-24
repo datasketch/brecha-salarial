@@ -1,7 +1,7 @@
 ---
 title: "Metodología"
 image: "titles/methodology.svg"
-bg: "images/bg-purple.webp"
+bg: "images/bg-purple.jpg"
 bars: "images/methodology-bars.png"
 ---
 
