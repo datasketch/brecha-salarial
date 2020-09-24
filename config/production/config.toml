@@ -4,3 +4,6 @@ title = "Prejuicio e inequidad salarial entre hombres y mujeres de la salud"
 taxonomies = []
 publishDir = "docs"
 googleAnalytics = "UA-66152192-7"
+
+[params]
+  favicon = "/favicon-ds.png"

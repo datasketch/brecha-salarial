@@ -69,11 +69,11 @@ Además las mujeres enfermeras deben someterse a la "doble jornada de cuidados".
 En nuestra investigación también analizamos la distribución de la desigualdad salarial para los tres últimos años y encontramos casi una constante en la brecha de género año a año con diferencias en remuneración entre hombres y mujeres de más de 1.2 millones de pesos mensuales por año.
 
 {{< table_wrapper >}}
-|      | Mujeres         | Hombres         | Diferencia             | Brecha |
-|------|-----------------|-----------------|------------------------|--------|
-| 2018 | COP2,092,083.57 | COP3,492,073.46 | COP1,399,989.88        | 40%    |
-| 2019 | COP2,041,439.05 | COP3,440,558.29 | COP1,399,119.24        | 41%    |
-| 2020 | COP2,126,409.46 | COP3,360,264.28 | COP1,233,854.82        | 37%    |
+|      | Mujeres         | Hombres         | Diferencia salarial    | Diferencia porcentual |
+|------|-----------------|-----------------|------------------------|-----------------------|
+| 2018 | COP2,092,083.57 | COP3,492,073.46 | COP1,399,989.88        | 40%                   |
+| 2019 | COP2,041,439.05 | COP3,440,558.29 | COP1,399,119.24        | 41%                   |
+| 2020 | COP2,126,409.46 | COP3,360,264.28 | COP1,233,854.82        | 37%                   |
 {{< /table_wrapper >}}
 
 Las diferencias salariales entre hombres y mujeres pueden explicarse a menudo por una multitud de factores, entre ellos la representación excesiva de las mujeres en sectores poco remunerados y el hecho de que las mujeres tienden a ocupar menos puestos ejecutivos y de liderazgo. Esto nos dijo Candelaria Botto, directora de Economía Feminista, una organización argentina​ que visibiliza la desigualdad de género a través de los datos y la economía: *"en general se evidencia que la brecha es más alta para aquellas personas sin formación profesional, donde una mujer sin estudios es empleada doméstica mientras el de un varón está en construcción o albañería. Esto no es un problema en sí mismo más allá de la reproducción de los estereotipos de género donde las mujeres se entienden con una cualidad casi biológica de hacer labores de limpieza y del cuidado. Esto también es un problema económico en el sentido que las tareas que ejercen los hombres tienen remuneraciones más altas"*.

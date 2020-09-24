@@ -4,3 +4,6 @@ title = "Prejuicio e inequidad salarial entre hombres y mujeres de la salud"
 taxonomies = []
 publishDir = "docs-cp"
 googleAnalytics = "UA-115081321-1"
+
+[params]
+  favicon = "https://cuestionpublica.com/wp-content/uploads/2018/06/favicon-96x96-1.png"
