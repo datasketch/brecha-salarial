@@ -4,6 +4,8 @@ image: "titles/article-2.svg"
 bars: "images/article-2-bars.png"
 bg: "images/bg-blue.png"
 description: "Entre los más 331.757 registros de contratación de hospitales estatales que analizamos para determinar la desigualdad salarial entre hombres y mujeres en el sector de la salud en Colombia. De la base de datos rastreamos dos contratos firmados el mismo día, del mismo año, en el mismo departamento, por el mismo gerente de empresa estatal, para contratar un enfermero jefe y una enfermera jefe que realizaran las mismas tareas en dos municipios diferentes y con diferente salario. ¿Adivinen a cuál mujer le pagaron menos?"
+images:
+   - "https://res.cloudinary.com/randommonkey/image/upload/v1600906835/brecha-salarial/person-2.jpg"
 ---
 
 *De los 331.757 registros de contratación de hospitales estatales que analizamos para determinar la desigualdad salarial entre hombres y mujeres en el sector de la salud rastreamos dos. Estos dos contratos fueron firmados el mismo día, del mismo año, en el mismo departamento, por el mismo gerente de empresa estatal, para contratar un enfermero jefe y una enfermera jefe que realizaran las mismas tareas en dos municipios diferentes y con diferente salario.¿Adivinen a cuál mujer le pagaron menos?*
